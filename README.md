@@ -1,0 +1,1 @@
+Some Document Object Manipulation practice from The Odin Project and Mozilla Developer Network.
